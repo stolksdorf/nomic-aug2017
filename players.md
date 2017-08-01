@@ -2,9 +2,6 @@
 
 Players                   | Points | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
-player1                   | 0      | 1      | Esquire         |
-player2                   | 0      | 1      | Esquire         |
-player3                   | 0      | 1      | Esquire         |
 
 ___
 
@@ -19,9 +16,9 @@ ___
 
 
 ### moderators
-- player2
-- player3
+- @stolksdorf
+- @JMTyler
 
 
 ### arbiter
-- player0
+- @JibbyJam
