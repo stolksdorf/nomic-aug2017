@@ -2,7 +2,7 @@
 
 Players                   | Points | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
-
+Christian                     0        1       Esquire
 ___
 
 ### inactive players
