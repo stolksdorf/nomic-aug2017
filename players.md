@@ -2,7 +2,7 @@
 
 Players                   | Points | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
-
+Simon
 ___
 
 ### inactive players
