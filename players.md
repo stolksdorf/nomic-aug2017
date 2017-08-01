@@ -2,6 +2,7 @@
 
 Players                   | Points | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
+@stolksdorf               | 0      | 1      | Esquire         |
 
 ___
 
