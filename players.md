@@ -2,7 +2,9 @@
 
 Players                   | Points | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
-Simon
+@stolksdorf               | 0      | 1      | Esquire         |
+@sdbaer                   | 0      | 1      | Esquire         |
+
 ___
 
 ### inactive players
