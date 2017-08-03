@@ -28,7 +28,7 @@
 #### 104: Ab Initio
 > a) A player begins the game with the status of `active` and with the resources consisting of: 0 points, 1 veto, and the [title](https://en.wikipedia.org/wiki/Royal_and_noble_ranks) of `Esquire`. 
 
-
+b) A player may submit an amendment to change their own title. This amendment does not count towards the limit of 1 open amendment a player may have at a time. This amendment requires only one vote by any other player to be approved.
 
 #### 105: Player Status
 > a) A player has a status that is `active` or `inactive`. 
