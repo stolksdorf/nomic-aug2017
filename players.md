@@ -4,7 +4,8 @@ Players                   | Points | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
 @stolksdorf               | 0      | 1      | Esquire         |
 @sdbaer                   | 0      | 1      | Esquire         |
-@CapnMadrick              | 0      | 1      | Esquire         |
+@CapnMadrick              | 0      | 1      | Esquire         |
+@Gnaws8                   | 0      | 1      | Esquire         |
 @Veto-Corleone            | 0      | 1      | Esquire         |
 ___
 
