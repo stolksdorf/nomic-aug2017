@@ -7,6 +7,7 @@ Players                   | Points | Vetoes | Title           |
 @CapnMadrick              | 0      | 1      | Esquire         |
 @Gnaws8                   | 0      | 1      | Esquire         |
 @Veto-Corleone            | 0      | 1      | Esquire         |
+
 ___
 
 ### inactive players
@@ -22,6 +23,7 @@ ___
 ### moderators
 - @stolksdorf
 - @JMTyler
+- @CapnMadrick
 
 
 ### arbiter
