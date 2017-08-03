@@ -6,6 +6,7 @@ Players                   | Points | Vetoes | Title           |
 @sdbaer                   | 0      | 1      | Esquire         |
 @CapnMadrick              | 0      | 1      | Esquire         |
 @Gnaws8                   | 0      | 1      | Esquire         |
+@Veto-Corleone            | 0      | 1      | Esquire         |
 ___
 
 ### inactive players
